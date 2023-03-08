@@ -66,10 +66,6 @@ aside {
 float:left;
 }
 
-#info:link, #cont:link, #form{
-    text-decoration: none;
-}
-
 #info:hover, #cont:hover, #form:hover, #exp:hover{
         text-decoration: none;
         background-color: #2f3675;
