@@ -52,7 +52,6 @@ aside {
     margin-bottom: 1px;
  }
 
-
 #menu {
     text-align: center;
     padding: 0px 0px;
@@ -65,11 +64,16 @@ aside {
 float:left;
 }
 
-#info:hover, #cont:hover, #form:hover, #exp:hover{
+#info:link, #cont:link, #form{
+    text-decoration: none;
+}
+
+#info:hover, #cont:hover, #form:hover{
         text-decoration: none;
         background-color: #2f3675;
         color:#f46b30 
 }
+
 
 ul{
     list-style: none;
@@ -123,3 +127,5 @@ h3 {
 #resumen {
  border-bottom: 1px solid #f46b30;
 }
+
+
