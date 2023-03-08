@@ -58,7 +58,9 @@ aside {
     text-align:center;
     background-color:#2d15b7;
     padding:3px 5px;
-    display:block; }
+    display:block; 
+    border-bottom: 1px solid #f46b30; 
+}
 
 #menuhorizontal li {
 float:left;
