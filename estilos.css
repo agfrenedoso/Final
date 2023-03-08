@@ -1,5 +1,4 @@
 * {
-    /* outline: 1px solid orange; */
     margin:0px;
     padding:0px;
     text-decoration-color: #edeef1; 
@@ -86,7 +85,7 @@ ul{
     
  }
 
-#exp1, #exp2, #est1, #est2{
+#exp1, #exp2, #exp3, #exp4, #est1, #est2{
     color: #2e95e9;
     display: block;
     margin:10px;
