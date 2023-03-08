@@ -44,6 +44,15 @@ body{
     padding:55px
 }
 
+aside {
+    width: auto;
+    background: #021f36 ;
+    border: 1px solid #7f5abb;
+    padding: 30px;
+    margin-bottom: 1px;
+ }
+
+
 #menu {
     text-align: center;
     padding: 0px 0px;
