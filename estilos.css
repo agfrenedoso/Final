@@ -70,10 +70,10 @@ float:left;
     text-decoration: none;
 }
 
-#info:hover, #cont:hover, #form:hover{
+#info:hover, #cont:hover, #form:hover, #exp:hover{
         text-decoration: none;
         background-color: #2f3675;
-        color:#f46b30 
+        color:#f46b30;
 }
 
 
